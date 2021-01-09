@@ -36,9 +36,9 @@
       <h3 class="css-h3">HTML5&CSS3</h3>
     </section>
   </section>
-  <section id="works" class="cf">
+  <section id="works-front" class="cf">
     <h2 class="title">Works</h2>
-    <?php echo do_shortcode( '[PFG id=34]' ); ?>
+    <?php echo do_shortcode( '[PFG id=98]' ); ?>
     <!-- <ul class="workList">
       <li>
         <p class="photo">
